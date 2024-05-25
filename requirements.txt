@@ -23,7 +23,7 @@ cinemagoer
 #---others----#
 opencv-python-headless
 googletrans
-telegraph==2.2.0
+telegraph
 python-dotenv
 gTTS
 Pillow
