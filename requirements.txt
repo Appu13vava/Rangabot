@@ -33,5 +33,4 @@ NumPy
 wheel
 ujson
 wget
-pryogram
 pytz
