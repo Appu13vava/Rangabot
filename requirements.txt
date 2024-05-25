@@ -34,4 +34,4 @@ wheel
 ujson
 wget
 pryogram
-pytz#
+pytz
